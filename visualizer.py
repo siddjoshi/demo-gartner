@@ -3,6 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 
+## Class deninition
 class AudioVisualizer:
     def __init__(self):
         # Audio settings
